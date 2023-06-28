@@ -1,6 +1,6 @@
 // Global variables
 var searchHistory = [];
-var weatherApiRootUrl = 'https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}'
+var weatherApiRootUrl = 'https://api.openweathermap.org'
 var weatherApiKey = 'f46d70bed1082bbf85a839067d6a9988';
 
 // DOM element references
